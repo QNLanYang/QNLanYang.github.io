@@ -86,8 +86,13 @@ $(function() {
             }, {
                 name: '岚漾云盘',
                 link: 'https://cloud.qnly.top',
-                box_shadow: '#CBE9F7',
+                box_shadow: '#91CDF4',
                 icon: './img/LYcloud.png',
+            }, {
+                name: 'LAI Chat',
+                link: 'https://ai.qnly.top/',
+                box_shadow: '#D8EEEB',
+                icon: './img/lai-chat.png',
             }, {
                 name: '酷安',
                 link: 'https://www.coolapk.com',
